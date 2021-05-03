@@ -19,7 +19,10 @@ The Process followed is:
 	-> Find contour detect all the close area in an image. We have found the contour which is polygon with 4 edges and having maximum area.
 5. Display the contour on the image. 
     >We have selected the contour and shown in the image.  
-	
+
+## How to run?
+To run the solution just downlaod and run the [main.py](main.py). After run it will ask for the path of the image to be analysed. Please provide same and it will save the result in 'output.jpg' file.
+
 ## Sample output 
 |Input| Output|
 |:---------------------------------------:|:---------------------------------------:|
